@@ -1,7 +1,3 @@
-# native-javascript-function-list
-native javascript functions list
-
-
 The Global Object
 Value Properties
 NaN
